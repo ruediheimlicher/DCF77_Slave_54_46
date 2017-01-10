@@ -10,3 +10,4 @@ build/*
 *.hex
 *.o
 .dep/
+DCF77_sl/*
